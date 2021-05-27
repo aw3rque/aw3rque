@@ -2,9 +2,6 @@
 
   ### Hi there, I'm Efe
 
-
-<font color="red" > Likes to listen to songs and sleep  </font>
-
 ### Reach out to me:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" align="left" />][spotify]
