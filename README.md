@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" align="right" width="440" height="550">
 
-  ### Hi there, I'm Efe
+  ### Hi there, I am Efe
 
 ### Reach out to me:
 
