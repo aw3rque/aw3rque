@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" align="right" width="440" height="550">
+![](https://komarev.com/ghpvc/?username=efewiped)
 
   ### Hi there, I am Efe
 
