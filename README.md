@@ -4,8 +4,8 @@
 
 ### Reach out to me:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" align="left" />][spotify]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" align="left" />][spotify]
 
 <br />
 
