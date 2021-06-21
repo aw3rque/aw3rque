@@ -2,15 +2,14 @@
 
  Hi, I'm Efe. 👋
 
-### My spotify acc :
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" align="left" />][spotify]
-
-
-[spotify]: https://open.spotify.com/user/3nwgygqzwengb9a6x5qyb9yn5?si=cbf553822ca54909
-
-<br>  
+<p align="center">
+   <a href="https://open.spotify.com/user/dxmod7e684q3naa2tvhvuzf2c" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://instagram.com/efelsoe" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-<br />  
+<div align="center">
+   <a href="https://discord.com/users/280696584889696257" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/280696584889696257">
+   </a>
+</div>
 
-[![Discord Rich Presence](https://lanyard-profile-readme.vercel.app/api/280696584889696257)](https://discord.com/users/280696584889696257)
 
