@@ -9,4 +9,4 @@
    <a href="https://discord.com/users/280696584889696257" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/280696584889696257%22%3E
    </a>
-</div>
+</div> 
