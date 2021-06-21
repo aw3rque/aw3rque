@@ -22,3 +22,6 @@
 
 [spotify]: https://open.spotify.com/user/3nwgygqzwengb9a6x5qyb9yn5?si=cbf553822ca54909
 [Instagram]: https://www.instagram.com/efewiped/
+
+[![Discord Rich Presence](https://lanyard-profile-readme.vercel.app/api/280696584889696257)](https://discord.com/users/280696584889696257)
+
