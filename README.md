@@ -2,8 +2,7 @@
 
  Hi, I'm Efe. 👋
 
-### Reach out to me:
-
+### My spotify acc :
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" align="left" />][spotify]
 
 
