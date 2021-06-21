@@ -1,6 +1,4 @@
-<div align="center">
-    <a href="https://komarev.com/ghpvc/?username=efewiped%22%3E<a/>
-        </div>
+![](https://komarev.com/ghpvc/?username=efewiped)
 
 
 <p align="center">
