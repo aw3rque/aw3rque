@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=efewiped)
 
-  ### Hi there, I am Efe
+ Hi, I'm Efe. 👋
 
 ### Reach out to me:
 
