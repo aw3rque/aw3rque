@@ -1,3 +1,4 @@
+![](https://arkadaslik.is-pretty.cool/4yRKwPJ.png)
 <div align="center">
     <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":aw3rque" />
 </div>
