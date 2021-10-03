@@ -1,9 +1,5 @@
 
 
-<div align="center">
-    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":aw3rque" />
-</div>
-
 <p align="center">
     <a href="https://instagram.com/efeeshu" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://open.spotify.com/user/3nwgygqzwengb9a6x5qyb9yn5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
