@@ -6,15 +6,16 @@
        <a href="https://steamcommunity.com/id/efewiped" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
 </p>
 
-<div align="center">
-    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":aw3rque" />
-</div>
-
 <p align="center">
      <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">
        <a href="https://efewiped.tebex.io" target"blank_"><img src="https://img.shields.io/badge/-TEBEX-orange?style=for-the-badge&logo=amazon"></a>
 </p>
+
     <div align="center">
+    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":aw3rque" />
+</div>
+
+<div align="center">
    <a href="https://discord.com/users/280696584889696257" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/280696584889696257">
    </a>
