@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">💖</g-emoji>Tebex<br>
+     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">
        <a href="https://efewiped.tebex.io" target"blank_"><img src="https://img.shields.io/badge/-TEBEX-orange?style=for-the-badge&logo=amazon"></a>
 </p>
     <div align="center">
