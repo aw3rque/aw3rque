@@ -21,3 +21,7 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/280696584889696257">
    </a>
 </div>
+    
+<div align="center">
+        <img src="https://discord.c99.nl/widget/theme-4/280696584889696257.png">
+</div>
