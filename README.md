@@ -23,4 +23,4 @@
 </div>
 
 <h2 align="center">Spotify</h2>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=efe1234&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=efe1234&cover_image=true&theme=default"/></a></div>
