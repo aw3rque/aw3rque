@@ -22,7 +22,7 @@ Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
     <h2 align="center"> Github Stats <img src = "https://cdn.discordapp.com/emojis/881503652634832896.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=asddas&show_icons=true&locale=en&layout=compact" alt="asddas" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aw3rque&show_icons=true&locale=en&layout=compact" alt="asddas" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asddas&show_icons=true&locale=en" alt="asddas" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aw3rque&show_icons=true&locale=en" alt="asddas" /></p>
 
