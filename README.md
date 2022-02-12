@@ -1,18 +1,28 @@
+<h1 align="left">Hello there! <img src = "https://cdn.discordapp.com/emojis/933755928317136907.png?v=1" high="20px" width="30px"></h1>
 
+<img src="https://komarev.com/ghpvc/?username=aw3rue&label=Profile Viewers&color=38bdf8" alt="aw3rque" />
 
-<p align="center">
-    <a href="https://instagram.com/efevocal" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-       <a href="https://open.spotify.com/user/3nwgygqzwengb9a6x5qyb9yn5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-       <a href="https://steamcommunity.com/id/efevocal" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
-</p>
-    
 <div>
-    <div align="center">
-    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":aw3rque" />
+    <h2 align="center"> About Me <img src = "https://cdn.discordapp.com/emojis/642161545383641098.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
-<div align="center">
-   <a href="https://discord.com/users/280696584889696257" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/280696584889696257">
-   </a>
+Hello, I am [Efe](https://discord.com/users/280696584889696257) and I am 17 years old developer.\
+I usually develop discord bots with [Node.JS](https://nodejs.org/en/docs/). \
+If you want to see my verified bot, just click the [link](https://discord.com/users/412016041749643277)! 
+
+<div>
+    <h2 align="center"> Contact <img src = "https://cdn.discordapp.com/emojis/898285949094621245.png?v=1" high="20px" width="30px"> </h2>
 </div>
+
+Discord @ [efe#1234](https://discord.com/users/280696584889696257) \
+Twitter @ [efewiped](https://twitter.com/efewiped) \
+Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
+
+<div>
+    <h2 align="center"> Github Stats <img src = "https://cdn.discordapp.com/emojis/881503652634832896.png?v=1" high="20px" width="30px"> </h2>
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aw3rque&show_icons=true&locale=en&layout=compact" alt="aw3rque's " /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aw3rque&show_icons=true&locale=en" alt="asddas" /></p>
+
