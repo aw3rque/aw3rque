@@ -7,8 +7,8 @@
 </div>
 
 Hello, I am [Efe](https://discord.com/users/280696584889696257) and I am 17 years old developer.\
-I usually develop discord bots with [Node.JS](https://nodejs.org/en/docs/). \
-If you want to see my verified bot, just click the [link](https://discord.com/users/412016041749643277)! 
+I am interested with FiveM and Discord Bots. \
+If you want to see my verified bot on discord, just click the [link](https://discord.com/users/412016041749643277)! 
 
 <div>
     <h2 align="center"> Contact <img src = "https://cdn.discordapp.com/emojis/898285949094621245.png?v=1" high="20px" width="30px"> </h2>
@@ -17,6 +17,16 @@ If you want to see my verified bot, just click the [link](https://discord.com/us
 Discord @ [efe#1234](https://discord.com/users/280696584889696257) \
 Twitter @ [efewiped](https://twitter.com/efewiped) \
 Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
+
+<div>
+    <h2 align="center"> Projects <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
+</div>
+
+Bobcat Heist @ [FiveM](https://www.youtube.com/watch?v=bU2_4M6BKWA) \
+Pursuit Mode @ [FiveM](https://www.youtube.com/watch?v=W1z8NzwDZRI) \
+Luci (Discord Bot) @ [Discord](https://top.gg/tr/bot/412016041749643277) 
+
+
 
 <div>
     <h2 align="center"> Github Stats <img src = "https://cdn.discordapp.com/emojis/881503652634832896.png?v=1" high="20px" width="30px"> </h2>
