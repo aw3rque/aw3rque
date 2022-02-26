@@ -1,6 +1,6 @@
 <h1 align="left">Hello there! <img src = "https://cdn.discordapp.com/emojis/933755928317136907.png?v=1" high="20px" width="30px"></h1>
 
-<img src="https://komarev.com/ghpvc/?username=aw3rue&label=Profile Viewers&color=38bdf8" alt="aw3rque" />
+<img src="https://komarev.com/ghpvc/?username=aw3rue&label=Profile%20Viewers&color=5C1CC4" alt="aw3rque" />
 
 <div>
     <h2 align="center"> About Me <img src = "https://cdn.discordapp.com/emojis/895594417484873779.png?v=1" high="20px" width="30px"> </h2>
