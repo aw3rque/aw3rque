@@ -16,7 +16,7 @@ If you want to see my verified bot on discord, just click the [link](https://dis
 
 Discord @ [efe#1234](https://discord.com/users/280696584889696257) \
 Twitter @ [efewiped](https://twitter.com/efewiped) \
-Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
+Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ) \
 Mail @ [efe@kediler.xyz](https://www.youtube.com/watch?v=gOWYoO3VHto)
 
 <div>
