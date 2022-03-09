@@ -6,7 +6,7 @@
     <h2 align="center"> About Me <img src = "https://cdn.discordapp.com/emojis/895594417484873779.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
-Hello, I am [Efe](https://discord.com/users/280696584889696257) and I am 17 years old and I am back-end developer.\
+Hello, I am [Efe](https://discord.com/users/280696584889696257), I am 17 years old, I am back-end developer.\
 I am interested with FiveM and Discord Bots. \
 If you want to see my verified bot on discord, just click the [link](https://discord.com/users/412016041749643277)! 
 
