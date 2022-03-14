@@ -16,7 +16,7 @@ If you want to see my verified bot on discord, just click the [link](https://dis
 
 Discord @ [efe#1234](https://discord.com/users/280696584889696257) \
 Twitter @ [efewiped](https://twitter.com/efewiped) \
-Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ) \
+Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ) 
 
 <div>
     <h2 align="center"> Projects <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
