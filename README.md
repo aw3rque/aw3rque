@@ -22,13 +22,14 @@ Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
     <h2 align="center"> Projects <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
-Bobcat Heist @ [FiveM](https://www.youtube.com/watch?v=bU2_4M6BKWA) \
-Pursuit Mode @ [FiveM](https://www.youtube.com/watch?v=W1z8NzwDZRI) \
-Luci (Discord Bot) @ [Discord](https://top.gg/tr/bot/412016041749643277) \
-Case Heist @ [FiveM](https://www.youtube.com/watch?v=e-_AtXqnqEw) \
-Website @ [Browser](https://aw3rque.github.io/) \
+**Bobcat Heist** @ [FiveM](https://www.youtube.com/watch?v=bU2_4M6BKWA) \
+**Pursuit Mode** @ [FiveM](https://www.youtube.com/watch?v=W1z8NzwDZRI) \
+**Luci (Discord Bot)** @ [Discord](https://top.gg/tr/bot/412016041749643277) \
+**Case Heist** @ [FiveM](https://www.youtube.com/watch?v=e-_AtXqnqEw) \
+**Website** @ [Browser](https://aw3rque.github.io/) \
 **Developer** @ [YesPixel](https://discord.gg/vWtczAmN) \
-**Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) 
+**Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) \
+**BayCity Maze Bank Heist** @ [FiveM](https://www.youtube.com/watch?v=-1VVhuRN3iE) \
 
 
 
