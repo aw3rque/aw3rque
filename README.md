@@ -26,7 +26,9 @@ Bobcat Heist @ [FiveM](https://www.youtube.com/watch?v=bU2_4M6BKWA) \
 Pursuit Mode @ [FiveM](https://www.youtube.com/watch?v=W1z8NzwDZRI) \
 Luci (Discord Bot) @ [Discord](https://top.gg/tr/bot/412016041749643277) \
 Case Heist @ [FiveM](https://www.youtube.com/watch?v=e-_AtXqnqEw) \
-Website @ [Browser](https://aw3rque.github.io/) 
+Website @ [Browser](https://aw3rque.github.io/) \
+Developer @ [YesPixel](https://discord.gg/vWtczAmN) \
+Developer @ [LJ Labs](https://discord.gg/qguySyVbwh) 
 
 
 
