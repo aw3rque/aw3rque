@@ -29,7 +29,7 @@ Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
 **Website** @ [Browser](https://aw3rque.github.io/) \
 **Developer** @ [YesPixel](https://discord.gg/vWtczAmN) \
 **Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) \
-**BayCity Maze Bank Heist** @ [FiveM](https://www.youtube.com/watch?v=-1VVhuRN3iE) \
+**BayCity Maze Bank Heist** @ [FiveM](https://www.youtube.com/watch?v=-1VVhuRN3iE) 
 
 
 
