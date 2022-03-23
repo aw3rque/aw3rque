@@ -19,7 +19,7 @@ Twitter @ [efewiped](https://twitter.com/efewiped) \
 Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ) 
 
 <div>
-    <h2 align="center"> Projects <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
+    <h2 align="center"> FiveM Projects <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
 **Bobcat Heist** @ [FiveM](https://www.youtube.com/watch?v=bU2_4M6BKWA) \
@@ -27,11 +27,13 @@ Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
 **Luci (Discord Bot)** @ [Discord](https://top.gg/tr/bot/412016041749643277) \
 **Case Heist** @ [FiveM](https://www.youtube.com/watch?v=e-_AtXqnqEw) \
 **Website** @ [Browser](https://aw3rque.github.io/) \
-**Developer** @ [YesPixel](https://discord.gg/vWtczAmN) \
-**Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) \
 **BayCity Maze Bank Heist** @ [FiveM](https://www.youtube.com/watch?v=-1VVhuRN3iE) 
 
-
+<div>
+    <h2 align="center"> Collaborating <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
+</div>
+**Developer** @ [YesPixel](https://discord.gg/vWtczAmN) \
+**Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) 
 
 <div>
     <h2 align="center"> Github Stats <img src = "https://cdn.discordapp.com/emojis/881503652634832896.png?v=1" high="20px" width="30px"> </h2>
