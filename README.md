@@ -32,6 +32,7 @@ Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
 <div>
     <h2 align="center"> Collaborating <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
 </div>
+
 **Developer** @ [YesPixel](https://discord.gg/vWtczAmN) \
 **Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) 
 
