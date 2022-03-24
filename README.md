@@ -34,7 +34,6 @@ Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
 </div>
 
 **Developer** @ [Hywave](hywave.net) \
-**Developer** @ [YesPixel](https://discord.gg/vWtczAmN) \
 **Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) 
 
 <div>
