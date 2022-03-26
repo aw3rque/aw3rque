@@ -7,8 +7,7 @@
 </div>
 
 Hello, I'm [Efe](https://discord.com/users/280696584889696257), 17-year-old back-end developer.\
-I am interested with FiveM and Discord Bots. \
-If you want to see my verified bot on discord, just click the [link](https://discord.com/users/412016041749643277)! 
+I am interested with FiveM and Discord Bots.
 
 <div>
     <h2 align="center"> Contact <img src = "https://cdn.discordapp.com/emojis/898285949094621245.png?v=1" high="20px" width="30px"> </h2>
