@@ -32,8 +32,7 @@ Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ)
     <h2 align="center"> Collabs <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
-**Developer** @ [Hywave](https://hywave.net) \
-**Developer** @ [LJ Labs](https://discord.gg/qguySyVbwh) 
+**Developer** @ [Hywave](https://hywave.net)
 
 <div>
     <h2 align="center"> Github Stats <img src = "https://cdn.discordapp.com/emojis/881503652634832896.png?v=1" high="20px" width="30px"> </h2>
