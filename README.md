@@ -18,6 +18,14 @@ Twitter @ [efewiped](https://twitter.com/efewiped) \
 Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ) 
 
 <div>
+    <h2 align="center"> Donate Me <img src = "[https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
+</div>
+**BTC:** 3Nymh5PL9aKVnKxaFi66vXuBGjyGMAddn7
+**ETH:** 0xDf8Ab928A71428CD94C611D7604EC35517DAab10
+**DOGE:** DMqf35qyzDdkmR1sJP2Tb2M2yumtwEF8pS 
+**LTC:** M9hdKq276r7YdrHWoL21oPXajuc9vF79TX
+
+<div>
     <h2 align="center"> Projects <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
