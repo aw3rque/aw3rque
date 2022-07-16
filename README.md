@@ -6,16 +6,16 @@
     <h2 align="center"> About Me <img src = "https://cdn.discordapp.com/emojis/895594417484873779.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
-Hello, I'm [Efe](https://discord.com/users/280696584889696257), 17-year-old back-end developer.\
+Hello, I'm [Efe](https://discord.com/users/280750521839517708), 17-year-old back-end developer.\
 I am interested with FiveM and Discord Bots.
 
 <div>
     <h2 align="center"> Contact <img src = "https://cdn.discordapp.com/emojis/898285949094621245.png?v=1" high="20px" width="30px"> </h2>
 </div>
 
-Discord @ [efe#1234](https://discord.com/users/280696584889696257) \
+Discord @ [aw3rque#1000](https://discord.com/users/280750521839517708) \
 Twitter @ [efewiped](https://twitter.com/efewiped) \
-Youtube @ [efe#1234](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ) 
+Youtube @ [aw3rque#1000](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7ENQ) 
 
 <div>
     <h2 align="center"> Donate Me <img src = "https://cdn.discordapp.com/emojis/977408356849422436.png?v=1" high="20px" width="30px"> </h2>
