@@ -22,7 +22,7 @@ Youtube @ [aw3rque#1000](https://www.youtube.com/channel/UC4a5DMZ_BjZFDios8od7EN
 </div>
 
 **BTC:** 3Nymh5PL9aKVnKxaFi66vXuBGjyGMAddn7\
-**ETH:** 0xDf8Ab928A71428CD94C611D7604EC35517DAab10\
+**ETH:** 0xe25f55D10baF4C583624e9F9B918fb449584DE2D\
 **DOGE:** DMqf35qyzDdkmR1sJP2Tb2M2yumtwEF8pS\
 **LTC:** M9hdKq276r7YdrHWoL21oPXajuc9vF79TX
 
